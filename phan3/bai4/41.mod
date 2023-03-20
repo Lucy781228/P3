@@ -1,0 +1,2 @@
+/home/lucy/phan3/bai4/41.o
+
